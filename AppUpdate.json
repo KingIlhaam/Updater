@@ -1,10 +1,13 @@
-{
-  "latestVersion": "2.0",
-  "latestVersionCode": 1,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+{"Version": [
+  {
+    "version": "2.7",
+    "error": "01"
+   }
+ ],
+ "Controle": [
+   {
+     "version": "2.7",
+     "error: "01"
+   }
+ ]
 }
